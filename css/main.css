@@ -4,13 +4,14 @@
 	height: 200px;
 	margin-right: auto;
 	margin-left: auto;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 ul {
 	list-style-type: none;
 	width: 2000px;
 	margin-top: 0;
 	padding-left: 0;
+	margin-left: -400px;
 }
 li {
 	list-style-type: none;
