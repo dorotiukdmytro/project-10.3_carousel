@@ -4,7 +4,7 @@
 	height: 200px;
 	margin-right: auto;
 	margin-left: auto;
-	/*overflow: hidden;*/
+	overflow: hidden;
 }
 ul {
 	list-style-type: none;
@@ -16,4 +16,15 @@ ul {
 li {
 	list-style-type: none;
 	float: left;
+}
+.buttons {
+	text-align: center;
+	margin-top: 20px;
+}
+button {
+	margin: 0 10px;
+	padding: 5px 20px;
+	list-style-type: none;
+	border: 1px solid blue;
+	width: 80px;
 }
